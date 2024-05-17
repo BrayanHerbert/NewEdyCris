@@ -84,17 +84,7 @@
     justify-content: center;
     border-radius: 30px 30px 0px 0px;
 }
-@media (max-width: 650px){
-    .conteudo{
-        display: flex;
-        position: relative;
-        top: 300px;
-        background-color: red;
-        flex-wrap: wrap;
-        gap: 10px;
-        justify-content: center;
-    }
-}
+
 .div{
     background-image: url(img/pexels-josh-hild-1270765-4270292\ \(2\).jpg);
     background-size: cover;
