@@ -96,7 +96,10 @@
     }
 }
 .div{
-   
-    justify-content: space-around;
- 
+    background-image: url(img/pexels-josh-hild-1270765-4270292\ \(2\).jpg);
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    width: 300px;
+    
 }
