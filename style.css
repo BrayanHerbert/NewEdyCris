@@ -3,11 +3,300 @@
     padding: 0; 
     font-family: "Lora", serif; ;
 }
+.fale{
+    background-color: white;
+    height: 30px;
+    width: 30px;
+    position: fixed;
+    top: 12px;
+    left: 265px;
+    z-index: 1;
+    border-radius: 50%;
+    cursor: pointer;
+    background-image: url(img/free-whatsapp-155-721985.webp);
+    background-position: center;
+    background-size: cover;
+    padding: 10px;
+}
+@media (min-width: 320px) and (max-width: 350px){
+    .fale{
+        height: 30px;
+        width: 30px;
+        position: fixed;
+        top: 12px;
+        left: 265px;
+        z-index: 1;
+        border-radius: 50%;
+        cursor: pointer;
+        background-image: url(img/free-whatsapp-155-721985.webp);
+        background-position: center;
+        background-size: cover;
+        padding: 10px;
+    }
+}
+@media (min-width: 370px) and (max-width: 450px){
+    .fale{
+        height: 30px;
+        width: 30px;
+        position: fixed;
+        top: 12px;
+        left: 320px;
+        z-index: 1;
+        border-radius: 50%;
+        cursor: pointer;
+        background-image: url(img/free-whatsapp-155-721985.webp);
+        background-position: center;
+        background-size: cover;
+        padding: 10px;
+    }
+}
+@media (min-width: 450px) and (max-width: 500px){
+    .fale{
+        height: 30px;
+        width: 30px;
+        position: fixed;
+        top: 12px;
+        left: 390px;
+        z-index: 1;
+        border-radius: 50%;
+        cursor: pointer;
+        background-image: url(img/free-whatsapp-155-721985.webp);
+        background-position: center;
+        background-size: cover;
+        padding: 10px;
+    }
+}
+@media (min-width: 500px) and (max-width: 540px){
+    .fale{
+        height: 30px;
+        width: 30px;
+        position: fixed;
+        top: 12px;
+        left: 440px;
+        z-index: 1;
+        border-radius: 50%;
+        cursor: pointer;
+        background-image: url(img/free-whatsapp-155-721985.webp);
+        background-position: center;
+        background-size: cover;
+        padding: 10px;
+    }
+}
+@media (min-width: 540px) and (max-width: 620px){
+    .fale{
+        height: 30px;
+        width: 30px;
+        position: fixed;
+        top: 12px;
+        left: 480px;
+        z-index: 1;
+        border-radius: 50%;
+        cursor: pointer;
+        background-image: url(img/free-whatsapp-155-721985.webp);
+        background-position: center;
+        background-size: cover;
+        padding: 10px;
+    }
+}
+@media (min-width: 620px) and (max-width: 650px){
+    .fale{
+        height: 30px;
+        width: 30px;
+        position: fixed;
+        top: 12px;
+        left: 570px;
+        z-index: 1;
+        border-radius: 50%;
+        cursor: pointer;
+        background-image: url(img/free-whatsapp-155-721985.webp);
+        background-position: center;
+        background-size: cover;
+        padding: 10px;
+    }
+}
+@media (min-width: 650px) and (max-width: 700px){
+    .fale{
+        height: 30px;
+        width: 30px;
+        position: fixed;
+        top: 12px;
+        left: 600px;
+        z-index: 1;
+        border-radius: 50%;
+        cursor: pointer;
+        background-image: url(img/free-whatsapp-155-721985.webp);
+        background-position: center;
+        background-size: cover;
+        padding: 10px;
+    }
+}
+@media (min-width: 700px) and (max-width: 750px){
+    .fale{
+        height: 30px;
+        width: 30px;
+        position: fixed;
+        top: 12px;
+        left: 650px;
+        z-index: 1;
+        border-radius: 50%;
+        cursor: pointer;
+        background-image: url(img/free-whatsapp-155-721985.webp);
+        background-position: center;
+        background-size: cover;
+        padding: 10px;
+    }
+}
+@media (min-width: 750px) and (max-width: 820px){
+    .fale{
+        height: 30px;
+        width: 30px;
+        position: fixed;
+        top: 12px;
+        left: 710px;
+        z-index: 1;
+        border-radius: 50%;
+        cursor: pointer;
+        background-image: url(img/free-whatsapp-155-721985.webp);
+        background-position: center;
+        background-size: cover;
+        padding: 10px;
+    }
+}
+@media (min-width: 820px) and (max-width: 870px){
+    .fale{
+        height: 30px;
+        width: 30px;
+        position: fixed;
+        top: 12px;
+        left: 770px;
+        z-index: 1;
+        border-radius: 50%;
+        cursor: pointer;
+        background-image: url(img/free-whatsapp-155-721985.webp);
+        background-position: center;
+        background-size: cover;
+        padding: 10px;
+    }
+}
+@media (min-width: 870px) and (max-width: 950px){
+    .fale{
+        height: 30px;
+        width: 30px;
+        position: fixed;
+        top: 12px;
+        left: 820px;
+        z-index: 1;
+        border-radius: 50%;
+        cursor: pointer;
+        background-image: url(img/free-whatsapp-155-721985.webp);
+        background-position: center;
+        background-size: cover;
+        padding: 10px;
+    }
+}
+@media (min-width: 950px) and (max-width: 1060px){
+    .fale{
+        height: 30px;
+        width: 30px;
+        position: fixed;
+        top: 12px;
+        left: 910px;
+        z-index: 1;
+        border-radius: 50%;
+        cursor: pointer;
+        background-image: url(img/free-whatsapp-155-721985.webp);
+        background-position: center;
+        background-size: cover;
+        padding: 10px;
+    }
+}
+@media (min-width: 1060px) and (max-width: 1200px){
+    .fale{
+        height: 30px;
+        width: 30px;
+        position: fixed;
+        top: 12px;
+        left: 1015px;
+        z-index: 1;
+        border-radius: 50%;
+        cursor: pointer;
+        background-image: url(img/free-whatsapp-155-721985.webp);
+        background-position: center;
+        background-size: cover;
+        padding: 10px;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1250px){
+    .fale{
+        height: 30px;
+        width: 30px;
+        position: fixed;
+        top: 12px;
+        left: 1150px;
+        z-index: 1;
+        border-radius: 50%;
+        cursor: pointer;
+        background-image: url(img/free-whatsapp-155-721985.webp);
+        background-position: center;
+        background-size: cover;
+        padding: 10px;
+    }
+}
+@media (min-width: 1250px) and (max-width: 1280px){
+    .fale{
+        height: 30px;
+        width: 30px;
+        position: fixed;
+        top: 12px;
+        left: 1200px;
+        z-index: 1;
+        border-radius: 50%;
+        cursor: pointer;
+        background-image: url(img/free-whatsapp-155-721985.webp);
+        background-position: center;
+        background-size: cover;
+        padding: 10px;
+    }
+}
+@media (min-width: 1280px) and (max-width: 1600px){
+    .fale{
+        height: 30px;
+        width: 30px;
+        position: fixed;
+        top: 12px;
+        left: 1230px;
+        z-index: 1;
+        border-radius: 50%;
+        cursor: pointer;
+        background-image: url(img/free-whatsapp-155-721985.webp);
+        background-position: center;
+        background-size: cover;
+        padding: 10px;
+    }
+}
+
+.logo{
+    background-color: white;
+    background-image: url(img/Logo-edycris-pp.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 53px;
+    width: 53px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.329);
+   
+}
+h1{
+    text-align: center;
+    font-size: 2.2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(223, 223, 223);
+    text-shadow: 0px 0px 15px rgba(0, 0, 0, 0.575);    
+}
 .main-bg{
-    background-image: url(img/pexels-kamenczak-775219\ \(1\).jpg);
-    background-position: center top;
-    background-repeat: repeat;
-    
+    background-image: linear-gradient(to top, rgb(202, 202, 202), rgb(109, 109, 109), rgb(65, 65, 65));
+  
 }
 
 .main-content{
@@ -19,19 +308,18 @@
 .menu ul li a{
     color: rgb(255, 255, 255);
     text-decoration: none;
-    
 }
 
 .menu {
-   background-image: linear-gradient(to right, #797979, #888888, rgb(109, 109, 109));
     position: relative;
     top: 0;
     right: 0;
     left: 0;
     width: 100%;
     display: block;
-    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.767);
-    border-radius: 0px 0px 30px 30px;
+    background-color: #1f3d46;
+    border-radius: 0px 0px 20px 20px;
+    box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.459);
 }
 .menu-content{
     flex-direction: column;
@@ -55,26 +343,27 @@
     border-radius: 40px;
 }
 .menu ul li a:hover{
-    background-color: rgb(100, 100, 100);
-    color: rgb(226, 226, 226);
+    background-color: rgb(160, 160, 160);
+    color: rgb(0, 0, 0);
     
 }
 .conteudo{
     display: flex;
     position: relative;
-    top: 180px;
-    background-image: linear-gradient(to right, #6b6b6b, rgb(145, 145, 145), rgb(100, 100, 100));
+    top: 130px;
+    background-image: linear-gradient(to right, #2b4a53, #1f3d46, #1f3d46);
     padding: 20px;
     flex-wrap: wrap;
     gap: 10px;
     justify-content: center;
-    border-radius: 30px 30px 0px 0px;
+    border-radius: 30px 30px 10px 10px;
     color: rgb(235, 235, 235);
+    margin: 10px;
 }
 .conteudo > p {
-    font-size: 1.8rem;
+    font-size: 1.5rem;
     text-align: center;
-    color: black;
+    color: rgb(226, 226, 226);
     padding: 10px;
    
 }
@@ -83,8 +372,9 @@
     background-size: cover;
     background-position: center;
     height: 400px;
-    width: 400px;
+    width: 100%;
     box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.404);
+    border-radius: 30px;
 }
 
 
@@ -107,3 +397,40 @@
         width: 400px;
     }
 }
+
+.conteudo2{
+    display: flex;
+    position: relative;
+    top: 300px;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-image: linear-gradient(to right, #2b4a53, #1f3d46, #1f3d46);
+    gap: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+
+.conteudo2 > p{
+    padding: 10px;
+    text-align: center;
+    color: rgb(211, 211, 211);
+    font-size: 1.5rem;
+}
+
+.conteudo3{
+    display: flex;
+    position: relative;
+    top: 300px;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-image: linear-gradient(90deg, #2b4a53, #1f3d46, #1f3d46);
+    gap: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
