@@ -34,7 +34,23 @@
         padding: 10px;
     }
 }
-@media (min-width: 370px) and (max-width: 450px){
+@media (min-width: 350px) and (max-width: 370px){
+    .fale{
+        height: 30px;
+        width: 30px;
+        position: fixed;
+        top: 12px;
+        left: 300px;
+        z-index: 1;
+        border-radius: 50%;
+        cursor: pointer;
+        background-image: url(img/free-whatsapp-155-721985.webp);
+        background-position: center;
+        background-size: cover;
+        padding: 10px;
+    }
+}
+@media (min-width: 370px) and (max-width: 400px){
     .fale{
         height: 30px;
         width: 30px;
@@ -50,13 +66,45 @@
         padding: 10px;
     }
 }
-@media (min-width: 450px) and (max-width: 500px){
+@media (min-width: 400px) and (max-width: 450px){
+    .fale{
+        height: 30px;
+        width: 30px;
+        position: fixed;
+        top: 12px;
+        left: 380px;
+        z-index: 1;
+        border-radius: 50%;
+        cursor: pointer;
+        background-image: url(img/free-whatsapp-155-721985.webp);
+        background-position: center;
+        background-size: cover;
+        padding: 10px;
+    }
+}
+@media (min-width: 450px) and (max-width: 480px){
     .fale{
         height: 30px;
         width: 30px;
         position: fixed;
         top: 12px;
         left: 390px;
+        z-index: 1;
+        border-radius: 50%;
+        cursor: pointer;
+        background-image: url(img/free-whatsapp-155-721985.webp);
+        background-position: center;
+        background-size: cover;
+        padding: 10px;
+    }
+}
+@media (min-width: 480px) and (max-width: 500px){
+    .fale{
+        height: 30px;
+        width: 30px;
+        position: fixed;
+        top: 12px;
+        left: 420px;
         z-index: 1;
         border-radius: 50%;
         cursor: pointer;
@@ -82,13 +130,29 @@
         padding: 10px;
     }
 }
-@media (min-width: 540px) and (max-width: 620px){
+@media (min-width: 540px) and (max-width: 600px){
     .fale{
         height: 30px;
         width: 30px;
         position: fixed;
         top: 12px;
         left: 480px;
+        z-index: 1;
+        border-radius: 50%;
+        cursor: pointer;
+        background-image: url(img/free-whatsapp-155-721985.webp);
+        background-position: center;
+        background-size: cover;
+        padding: 10px;
+    }
+}
+@media (min-width: 600px) and (max-width: 620px){
+    .fale{
+        height: 30px;
+        width: 30px;
+        position: fixed;
+        top: 12px;
+        left: 550px;
         z-index: 1;
         border-radius: 50%;
         cursor: pointer;
