@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0; 
+    font-family: Arial, Helvetica, sans-serif;
 }
 .main-bg{
     background-image: url(img/pexels-kamenczak-775219\ \(1\).jpg);
@@ -22,17 +23,19 @@
 }
 
 .texto{
+    top: 400px;
     display: flex;
     position: absolute;
     text-align: center;
-    background-color: rgba(0, 0, 0, 0);
+    background-color: rgba(255, 255, 255, 0.178);
     backdrop-filter: blur(3px);
     margin: 10px;
     padding: 10px;
     text-align: center;
     color: rgb(0, 0, 0);
-    font-size: 1.6rem;
+    font-size: 1.9rem;
     line-height: 25px;
+    border-radius: 10px 0px ;
 }
 
 .menu {
@@ -74,8 +77,8 @@
 .conteudo{
     display: flex;
     position: relative;
-    top: 120px;
-    background-color: rgba(100, 100, 100, 0.705);
+    top: 180px;
+    background-image: linear-gradient(to right, #6b6b6b, rgb(192, 192, 192), rgb(100, 100, 100));
     padding: 20px;
     flex-wrap: wrap;
     gap: 10px;
@@ -83,13 +86,20 @@
     border-radius: 30px 30px 0px 0px;
     color: rgb(235, 235, 235);
 }
-
+.conteudo > p {
+    font-size: 1.8rem;
+    text-align: center;
+    color: black;
+    padding: 10px;
+   
+}
 .div{
     background-image: url(img/pexels-josh-hild-1270765-4270292\ \(2\).jpg);
     background-size: cover;
     background-position: center;
     height: 400px;
     width: 400px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.404);
 }
 
 
