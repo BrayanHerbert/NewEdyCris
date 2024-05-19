@@ -134,7 +134,7 @@ body{
         width: 30px;
         position: fixed;
         top: 12px;
-        left: 440px;
+        left: 460px;
         z-index: 1;
         border-radius: 50%;
         cursor: pointer;
@@ -150,7 +150,7 @@ body{
         width: 30px;
         position: fixed;
         top: 12px;
-        left: 480px;
+        left: 510px;
         z-index: 1;
         border-radius: 50%;
         cursor: pointer;
@@ -426,6 +426,7 @@ body{
 }
 .conteudo h1 {
     font-size: 2.3rem;
+    text-align: center;
 }
 .div{
     background-image: url(img/pexels-josh-hild-1270765-4270292\ \(2\).jpg);
@@ -468,6 +469,7 @@ body{
     font-size: 2rem;
     color: white;
     text-shadow: 0px 0px 15px rgba(245, 245, 245, 0.26);
+    text-align: center;
 }
 .conteudo2{
     display: flex;
@@ -500,6 +502,7 @@ body{
 .conteudo3 h1{
     font-size: 2.4rem;
     color: #242424;
+    text-align: center;
 }
 .conteudo3 p{
     font-size: 1.5rem;
@@ -543,6 +546,7 @@ body{
 .conteudo4 h1{
     font-size: 2.4rem;
     color: #ffffff;
+    text-align: center;
 }
 .conteudo4 p{
     font-size: 1.5rem;
