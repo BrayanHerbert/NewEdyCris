@@ -11,19 +11,7 @@ body{
    background-position: center center;
    height: 100vh;
 }
-.btn-menu{
-    background-image: url(img/pngtree-instagram-social-media-icon-png-image_9015420.png);
-    background-position: center;
-    background-size: cover;
-    height: 30px;
-    width: 30px;
-    top: 9px;
-    border-radius: 50%;
-    position: fixed;
-    cursor: pointer;
-    z-index: 2;
-    margin: 5px;
-}
+
 .fale{
     background-color: white;
     height: 30px;
