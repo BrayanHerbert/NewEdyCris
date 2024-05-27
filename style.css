@@ -12,12 +12,17 @@ body{
    height: 100vh;
 }
 .btn-menu{
-    background-color: rgba(202, 202, 202, 0.651);
-    padding: 10px;
-    height: 50px;
-    width: 50px;
-    position: relative;
-
+    background-image: url(img/three-dimensional-instagram-icon-social-software-likes_494359_wh860.png);
+    background-position: center;
+    background-size: cover;
+    height: 30px;
+    width: 30px;
+    top: 9px;
+    border-radius: 50%;
+    position: fixed;
+    cursor: pointer;
+    z-index: 2;
+    margin: 5px;
 }
 .fale{
     background-color: white;
@@ -56,7 +61,7 @@ body{
         width: 30px;
         position: fixed;
         top: 12px;
-        left: 300px;
+        left: 320px;
         z-index: 1;
         border-radius: 50%;
         cursor: pointer;
@@ -82,13 +87,29 @@ body{
         padding: 10px;
     }
 }
-@media (min-width: 400px) and (max-width: 450px){
+@media (min-width: 400px) and (max-width: 420px){
     .fale{
         height: 30px;
         width: 30px;
         position: fixed;
         top: 12px;
-        left: 350px;
+        left: 370px;
+        z-index: 1;
+        border-radius: 50%;
+        cursor: pointer;
+        background-image: url(img/free-whatsapp-155-721985.webp);
+        background-position: center;
+        background-size: cover;
+        padding: 10px;
+    }
+}
+@media (min-width: 420px) and (max-width: 430px){
+    .fale{
+        height: 30px;
+        width: 30px;
+        position: fixed;
+        top: 12px;
+        left: 390px;
         z-index: 1;
         border-radius: 50%;
         cursor: pointer;
