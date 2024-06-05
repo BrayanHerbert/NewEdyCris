@@ -6,12 +6,11 @@
     background-color: bla;
 }
 body{
-   background-image: url(img/annie-spratt-yI3weKNBRTc-unsplash\ \(1\).jpg);
-   background-size: cover;
-   background-position: center center;
-   height: 100vh;
+    background-image: url(img/annie-spratt-6a3nqQ1YwBw-unsplash.jpg);
+    background-size: cover;
+    height: 100vh;
 }
-
+ 
 .fale{
     background-color: white;
     height: 30px;
@@ -283,7 +282,7 @@ body{
         padding: 10px;
     }
 }
-@media (min-width: 950px) and (max-width: 1060px){
+@media (min-width: 950px) and (max-width: 1000px){
     .fale{
         height: 30px;
         width: 30px;
@@ -299,7 +298,23 @@ body{
         padding: 10px;
     }
 }
-@media (min-width: 1060px) and (max-width: 1200px){
+@media (min-width: 1000px) and (max-width: 1050px){
+    .fale{
+        height: 30px;
+        width: 30px;
+        position: fixed;
+        top: 12px;
+        left: 950px;
+        z-index: 1;
+        border-radius: 50%;
+        cursor: pointer;
+        background-image: url(img/free-whatsapp-155-721985.webp);
+        background-position: center;
+        background-size: cover;
+        padding: 10px;
+    }
+}
+@media (min-width: 1050px) and (max-width: 1080px){
     .fale{
         height: 30px;
         width: 30px;
@@ -316,13 +331,13 @@ body{
     }
 }
 
-@media (min-width: 1200px) and (max-width: 1250px){
+@media (min-width: 1080px) and (max-width: 1150px){
     .fale{
         height: 30px;
         width: 30px;
         position: fixed;
         top: 12px;
-        left: 1150px;
+        left: 1050px;
         z-index: 1;
         border-radius: 50%;
         cursor: pointer;
@@ -332,13 +347,13 @@ body{
         padding: 10px;
     }
 }
-@media (min-width: 1250px) and (max-width: 1280px){
+@media (min-width: 1150px) and (max-width: 1200px){
     .fale{
         height: 30px;
         width: 30px;
         position: fixed;
         top: 12px;
-        left: 1200px;
+        left: 1120px;
         z-index: 1;
         border-radius: 50%;
         cursor: pointer;
@@ -348,13 +363,29 @@ body{
         padding: 10px;
     }
 }
-@media (min-width: 1280px) and (max-width: 1600px){
+@media (min-width: 1200px) and (max-width: 1280px){
     .fale{
         height: 30px;
         width: 30px;
         position: fixed;
         top: 12px;
-        left: 1230px;
+        left: 1170px;
+        z-index: 1;
+        border-radius: 50%;
+        cursor: pointer;
+        background-image: url(img/free-whatsapp-155-721985.webp);
+        background-position: center;
+        background-size: cover;
+        padding: 10px;
+    }
+}
+@media (min-width: 1280px) and (max-width: 1320px){
+    .fale{
+        height: 30px;
+        width: 30px;
+        position: fixed;
+        top: 12px;
+        left: 1240px;
         z-index: 1;
         border-radius: 50%;
         cursor: pointer;
@@ -406,14 +437,16 @@ body{
     text-align: center;
     
 }
+
+
 .menu h1{
     position: relative;
-    top: 90px;
+    top: 70px;
     right: 20px;
     font-size: 4rem;
     font-family: "Lora", serif;
     text-shadow: 0px 0px 15px rgba(53, 53, 53, 0.521);
-    color: rgb(36, 36, 36);
+    color: #dadada;
     text-decoration: underline;
 }
 
@@ -424,16 +457,17 @@ body{
     padding: 20px;
     flex-wrap: wrap;
     gap: 10px;
-    justify-content: center;
+    justify-content: space-evenly;
     border-radius: 30px 30px 10px 10px;
-    color: rgb(0, 0, 0);
+    color: #dadada;
     margin: 10px;
+    border: solid 1px rgb(201, 201, 201);
 }
 .conteudo > p {
     font-size: 1.5rem;
     line-height: 40px;
     text-align: center;
-    color: rgb(0, 0, 0);
+    color: #dadada;
     padding: 10px;
     margin: 10px;
 }
@@ -451,6 +485,18 @@ body{
     border-radius: 30px;
 }
 
+
+@media (min-width: 610px) and (max-width: 1600px){
+    .div{
+        background-image: url(img/pexels-josh-hild-1270765-4270292\ \(2\).jpg);
+        background-size: cover;
+        background-position: center;
+        height: 500px;
+        width: 500px;
+        box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.404);
+        border-radius: 30px;
+    }
+}
 
 @media (min-width: 300px) and (max-width: 430px){
     .div{
@@ -479,28 +525,30 @@ body{
 }
 .conteudo2 h1{
     font-size: 2rem;
-    color: rgb(0, 0, 0);
+    color: #dadada;
     text-shadow: 0px 0px 15px rgba(245, 245, 245, 0.26);
     text-align: center;
+    
 }
 .conteudo2{
     display: flex;
     position: relative;
-    top: 250px;
-    justify-content: center;
-    flex-direction: column;
+    top: 180px;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
     align-items: center;
     gap: 10px;
     margin: 10px;
     border-radius: 10px;
     padding: 10px;
+    border: solid 1px rgb(201, 201, 201);
 }
 
 
 .conteudo2 > p{
     padding: 10px;
     text-align: center;
-    color: rgb(0, 0, 0);
+    color: #dadada;
     font-size: 1.5rem;
     margin: 10px;
     line-height: 40px;
@@ -512,7 +560,7 @@ body{
 }
 .conteudo3 h1{
     font-size: 2.4rem;
-    color: #242424;
+    color: #dadada;
     text-align: center;
 }
 .conteudo3 p{
@@ -521,19 +569,20 @@ body{
     margin: 10px;
     padding: 10px;
     text-align: center;
-    color: black;
+    color: #dadada;
 }
 .conteudo3{
     display: flex;
     position: relative;
-    top: 300px;
-    justify-content: center;
-    flex-direction: column;
+    top: 235px;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
     align-items: center;
     gap: 10px;
     margin: 10px;
     border-radius: 10px;
     padding: 10px;
+    border: solid 1px rgb(201, 201, 201);
 }
 
 .main-bg4{
@@ -544,18 +593,19 @@ body{
 .conteudo4 {
     display: flex;
     position: relative;
-    top: 300px;
-    justify-content: center;
-    flex-direction: column;
+    top: 290px;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
     align-items: center;
     gap: 10px;
     margin: 10px;
     border-radius: 10px;
     padding: 10px;
+    border: solid 1px rgb(201, 201, 201);
 }
 .conteudo4 h1{
     font-size: 2.4rem;
-    color: rgb(0, 0, 0);
+    color: #dadada;
     text-align: center;
 }
 .conteudo4 p{
@@ -564,5 +614,5 @@ body{
     margin: 10px;
     padding: 10px;
     text-align: center;
-    color: rgb(0, 0, 0);
+    color: #dadada;
 }
