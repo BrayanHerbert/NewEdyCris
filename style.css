@@ -458,7 +458,7 @@ body{
     flex-wrap: wrap;
     gap: 10px;
     justify-content: space-evenly;
-    border-radius: 30px 30px 10px 10px;
+    border-radius: 30px 30px 0px 0px;
     color: #dadada;
     margin: 10px;
     border: solid 1px rgb(201, 201, 201);
@@ -476,7 +476,52 @@ body{
     text-align: center;
 }
 .div{
-    background-image: url(img/pexels-josh-hild-1270765-4270292\ \(2\).jpg);
+    background-image: url(img-div/IMG-20231205-WA0028.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    width: 100%;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.404);
+    border-radius: 30px;
+}
+.divb{
+    background-image: url(img-div/forro.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    width: 100%;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.404);
+    border-radius: 30px;
+}
+.div2{
+    background-image: url(img-div/IMG-20231205-WA0032.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    width: 100%;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.404);
+    border-radius: 30px;
+}
+.div2b{
+    background-image: url(img-div/IMG-20231205-WA0034.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    width: 100%;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.404);
+    border-radius: 30px;
+}
+.div3{
+
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    width: 100%;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.404);
+    border-radius: 30px;
+}
+.div4{
+
     background-size: cover;
     background-position: center;
     height: 400px;
@@ -485,10 +530,65 @@ body{
     border-radius: 30px;
 }
 
-
 @media (min-width: 610px) and (max-width: 1600px){
     .div{
-        background-image: url(img/pexels-josh-hild-1270765-4270292\ \(2\).jpg);
+        background-size: cover;
+        background-position: center;
+        height: 500px;
+        width: 500px;
+        box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.404);
+        border-radius: 30px;
+    }
+    .divb{
+        background-size: cover;
+        background-position: center;
+        height: 500px;
+        width: 500px;
+        box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.404);
+        border-radius: 30px;
+    }
+    .div2{
+        background-size: cover;
+        background-position: center;
+        height: 500px;
+        width: 500px;
+        box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.404);
+        border-radius: 30px;
+    }
+    .div2b{
+        background-size: cover;
+        background-position: center;
+        height: 500px;
+        width: 500px;
+        box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.404);
+        border-radius: 30px;
+    }
+    
+    .div3{
+        background-size: cover;
+        background-position: center;
+        height: 500px;
+        width: 500px;
+        box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.404);
+        border-radius: 30px;
+    }
+    .div3b{
+        background-size: cover;
+        background-position: center;
+        height: 500px;
+        width: 500px;
+        box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.404);
+        border-radius: 30px;
+    }
+    .div4{
+        background-size: cover;
+        background-position: center;
+        height: 500px;
+        width: 500px;
+        box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.404);
+        border-radius: 30px;
+    }
+    .div4b{
         background-size: cover;
         background-position: center;
         height: 500px;
@@ -497,26 +597,135 @@ body{
         border-radius: 30px;
     }
 }
-
-@media (min-width: 300px) and (max-width: 430px){
-    .div{
-        background-color: rgb(0, 60, 255);
-        background-size: cover;
-        background-position: center;
-        height: 300px;
-        width: 300px;
-        
-    }
-}
 @media (min-width: 430px) and (max-width: 530px){
     .div{
         background-color: red;
         background-size: cover;
         background-position: center;
+        height: 500px;
+        width: 500px;
+    }
+    .divb{
+        background-color: red;
+        background-size: cover;
+        background-position: center;
+        height: 500px;
+        width: 500px;
+    }
+    .div2{
+        background-size: cover;
+        background-position: center;
+        height: 500px;
+        width: 500px;
+        box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.404);
+        border-radius: 30px;
+    }
+    .div2b{
+        background-size: cover;
+        background-position: center;
+        height: 500px;
+        width: 500px;
+        box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.404);
+        border-radius: 30px;
+    }
+    .div3{
+        background-size: cover;
+        background-position: center;
+        height: 500px;
+        width: 500px;
+        box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.404);
+        border-radius: 30px;
+    }
+    .div3b{
+        background-size: cover;
+        background-position: center;
+        height: 500px;
+        width: 500px;
+        box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.404);
+        border-radius: 30px;
+    }
+    .div4{
+        background-size: cover;
+        background-position: center;
+        height: 500px;
+        width: 500px;
+        box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.404);
+        border-radius: 30px;
+    }
+    .div4b{
+        background-size: cover;
+        background-position: center;
+        height: 500px;
+        width: 500px;
+        box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.404);
+        border-radius: 30px;
+    }
+}
+@media (min-width: 300px) and (max-width: 430px){
+    .div{
+        background-color: rgb(0, 60, 255);
+        background-size: cover;
+        background-position: center;
         height: 400px;
         width: 400px;
     }
+    .divb{
+        background-color: rgb(0, 60, 255);
+        background-size: cover;
+        background-position: center;
+        height: 400px;
+        width: 400px;
+    }
+    .div2{
+        background-size: cover;
+        background-position: center;
+        height: 400px;
+        width: 400px;
+        box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.404);
+        border-radius: 30px;
+    }
+    .div2b{
+        background-size: cover;
+        background-position: center;
+        height: 400px;
+        width: 400px;
+        box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.404);
+        border-radius: 30px;
+    }
+    .div3{
+        background-size: cover;
+        background-position: center;
+        height: 400px;
+        width: 400px;
+        box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.404);
+        border-radius: 30px;
+    }
+    .div3b{
+        background-size: cover;
+        background-position: center;
+        height: 400px;
+        width: 400px;
+        box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.404);
+        border-radius: 30px;
+    }
+    .div4{
+        background-size: cover;
+        background-position: center;
+        height: 400px;
+        width: 400px;
+        box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.404);
+        border-radius: 30px;
+    }
+    .div4b{
+        background-size: cover;
+        background-position: center;
+        height: 400px;
+        width: 400px;
+        box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.404);
+        border-radius: 30px;
+    }
 }
+
 .main-bg2{
     background-size: cover;
     background-repeat: no-repeat;
@@ -539,7 +748,7 @@ body{
     align-items: center;
     gap: 10px;
     margin: 10px;
-    border-radius: 10px;
+    border-radius: 0px 0px 30px 30px;
     padding: 10px;
     border: solid 1px rgb(201, 201, 201);
 }
@@ -580,7 +789,7 @@ body{
     align-items: center;
     gap: 10px;
     margin: 10px;
-    border-radius: 10px;
+    border-radius: 30px 30px 0px 0px;
     padding: 10px;
     border: solid 1px rgb(201, 201, 201);
 }
@@ -599,7 +808,7 @@ body{
     align-items: center;
     gap: 10px;
     margin: 10px;
-    border-radius: 10px;
+    border-radius: 0px 0px 30px 30px;
     padding: 10px;
     border: solid 1px rgb(201, 201, 201);
 }
