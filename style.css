@@ -512,7 +512,16 @@ body{
     border-radius: 30px;
 }
 .div3{
-
+    background-image: url(img-div/parede.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    width: 100%;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.404);
+    border-radius: 30px;
+}
+.div3b{
+    background-image: url(img-div/parede2.jpg);
     background-size: cover;
     background-position: center;
     height: 400px;
@@ -521,9 +530,18 @@ body{
     border-radius: 30px;
 }
 .div4{
-
+    background-image: url(img-div/depois.jpg);
     background-size: cover;
     background-position: center;
+    height: 400px;
+    width: 100%;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.404);
+    border-radius: 30px;
+}
+.div4b{
+    background-image: url(img-div/divisorias2.jpg);
+    background-size: cover;
+    background-position: center right;
     height: 400px;
     width: 100%;
     box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.404);
